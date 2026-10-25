@@ -68,7 +68,7 @@ Basis: Order Status = COMPLETE + CLOSED, excluding canceled orders.
 
 ## Dashboard
 
-![Dashboard]()
+![Dashboard](https://github.com/kazzyagu/supply-chain-delivery-performance-excel/blob/main/dashboard.PNG?raw=true)
 
 ## Repository contents
 
