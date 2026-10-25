@@ -1,6 +1,7 @@
 # supply-chain-delivery-performance-excel
 Excel analysis of late deliveries in the DataCo supply chain dataset: pivot tables, a dashboard and three recommendations.
 
+GET EXCEL SHEET HERE: https://www.kaggle.com/datasets/kazzyagu/dataco-supply-chain-databaset
 
 # Supply Chain Delivery Performance Analysis (Excel)
 
@@ -72,7 +73,7 @@ Basis: Order Status = COMPLETE + CLOSED, excluding canceled orders.
 
 ## Repository contents
 
-- `Supply_Chain_Analysis.xlsm` - workbook with the Clean_Data, Analysis, Dashboard and Recommendations sheets
+- `[](https://www.kaggle.com/datasets/kazzyagu/dataco-supply-chain-databaset)` - workbook with the Clean_Data, Analysis, Dashboard and Recommendations sheets
 - `images/` - screenshots of the dashboard and key pivot tables
 
 ## Limitations
