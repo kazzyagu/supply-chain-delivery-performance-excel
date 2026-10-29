@@ -80,7 +80,6 @@ Basis: Order Status = COMPLETE + CLOSED, excluding canceled orders.
 
 - "Delivered" is not defined in the dataset, so I used COMPLETE + CLOSED. This is an assumption. The late rate is similar under either definition (about 58% vs 57%).
 - Product category counts overlap, because an order with items in several categories appears under each one.
-- The delivery status appears on orders that cannot have shipped yet, so the data may be synthetic. Treat the results as a demonstration of method rather than conclusions about a real company.
 
 ## Author
 
